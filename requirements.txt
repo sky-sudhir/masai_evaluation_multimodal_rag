@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-chroma
+fastapi[standard]
+langchain-community
+pypdf
+flashrank
+dotenv
+
+Pillow
